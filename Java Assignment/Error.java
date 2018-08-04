@@ -10,8 +10,7 @@ public class Error
     public Error()
     {        
         // Nothing to declare .... //
-    }    
-    
+    }        
     /**
      * Displays the error message for command words user input if it exceeds the given limit.
      * 
